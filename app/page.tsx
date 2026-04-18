@@ -83,11 +83,11 @@ export default function Home() {
           <span className="px-4 py-1.5 rounded-full border border-purple-500/30 bg-purple-500/10 text-purple-400 text-[10px] font-bold tracking-[0.2em] uppercase mb-8 inline-block">
             Battle-Ready Gaming Arena
           </span>
-          <h2 className="text-6xl md:text-[100px] font-black mb-8 tracking-tighter leading-[0.85] uppercase italic">
+          <h2 className="text-4xl md:text-[100px] font-black mb-8 tracking-tighter leading-[0.85] uppercase italic">
             YOUR ULTIMATE<br />
-            <span className="text-transparent bg-clip-text bg-gradient-to-r from-purple-400 via-pink-500 to-blue-500">
-              BATTLEGROUND
-            </span>
+            <span className="text-4xl inline-block text-transparent bg-clip-text bg-gradient-to-r from-purple-400 via-pink-500 to-blue-500 font-bold tracking-wider">
+  BATTLEGROUND
+</span>
           </h2>
           <p className="text-gray-400 max-w-2xl mx-auto mb-12 text-lg font-medium">
             From RTX-powered beasts to high-fidelity VR, experience gaming the way it was meant to be played.
